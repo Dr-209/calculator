@@ -13,7 +13,7 @@
     justify-content: center;
 }
 .calculator{
-    background: plum;
+    background: #003153;
     padding: 30px;
     border-radius: 10px;
 }
@@ -47,5 +47,5 @@ form input.equal{
     width: 145px;
 }
 form input.operator{
-    color: blue;
+    color: rgb(64, 185, 144);
 }
